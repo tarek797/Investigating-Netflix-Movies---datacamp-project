@@ -16,10 +16,6 @@ pip install matplotlib
 pip install pandas
 ```
 4.run the commands.
-## Authors
-
-- [@Tarek Habash](https://github.com/tarek797)
-
 
 ## Screenshots
 
@@ -27,3 +23,7 @@ pip install pandas
 
 ### are_movies_getting_shorter?
 No, traditional genres from before the 1990s still have the same range of film duration between 100min and 150min as seen in the final figure. but new genres of short films have been increasingly being produced since the late 1990s, affecting the average overall film duration.
+
+## Authors
+
+- [@Tarek Habash](https://github.com/tarek797)
